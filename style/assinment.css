@@ -199,6 +199,14 @@ main{
     height: 139px;
     
 }
+.help{
+    width: 1140px;
+    height: 313px;
+    background-image: url(assets/handshake.jpg);
+}
+.form{
+    text-align: center;
+}
 
 
   
