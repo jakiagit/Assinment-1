@@ -145,4 +145,46 @@ div4 {
     justify-content: space-between;
  
 }
+.sec-title{
+    font-size: 24px ;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 32px ;
+}
+.sec-description{
+    font-size: 16px;
+    font-weight: normal;
+    color: #0d130d;
+    text-align: center;
+
+    
+}
+
+/* main style */
+.main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.video{
+    width: 1140px;
+    height: 775px;
+    
+}
+/*skill 1*/
+.skills-current{
+    display: flex;
+    margin-top: 48px;
+    gap: 24px;
+
+}
+.skill{
+    padding: 40px;
+    background-color: #fff6f4;
+
+
+}
+  
+
+
 
