@@ -48,6 +48,7 @@ nav ul li {
     color: white;
     padding: 24px 21px;
     border-radius: 5px;
+    align-items: center;
 
 
 }
@@ -62,14 +63,18 @@ nav ul li {
 .banner{
     display: block;
     justify-content: center;
-    margin: 32px 100px;
+    width: 998px;
+    height: 309px;
 }
 .banner-title{
     font-weight: bold;
+    text-align: center;
+    
     
 }
 .banner-description{
     font-weight: normal;
+    text-align: center;
 }
 .image-1{
     width: 240.28px;
@@ -82,5 +87,62 @@ nav ul li {
     justify-content: center;
     align-items: center;
     margin: 0px;
+}
+
+/* header */
+.header{
+    background-image: url(assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+/* main */
+.block-title{
+    font-weight: bold;
+    text-align: center;
+}
+.block-description{
+    font-weight: normal;
+    text-align: center;
+   
+}
+/*group */
+.gep{
+    margin: 32px;
+
+}
+.group-1title{
+    font-weight: bold;
+    
+}
+.group-1description{
+    font-weight: normal;
+}
+
+section-2{
+    display: flex;
+    justify-content: space-between;
+}
+.group2-title{
+    font-weight: bold;
+
+}
+.group2-description{
+    font-weight: normal;
+}
+div2 {
+    display: flex;
+    justify-content: space-between;
+}
+.group4-title{
+    font-weight: bold;
+}
+.group4-description{
+    font-weight: normal;
+}
+div4 {
+    display: flex;
+    justify-content: space-between;
+ 
 }
 
