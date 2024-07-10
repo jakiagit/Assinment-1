@@ -162,7 +162,7 @@ div4 {
 }
 
 /* main style */
-.main{
+main{
     max-width: 1140px;
     margin: 0 auto;
 }
@@ -181,9 +181,26 @@ div4 {
 .skill{
     padding: 40px;
     background-color: #fff6f4;
-
-
 }
+.skill2{
+    display: flex;
+    margin-top: 48px;
+    gap: 24px;
+    
+
+    
+}
+.icon{
+    width: 94.78px;
+    height: 108px;
+}
+.skill-content{
+    width: 941px;
+    height: 139px;
+    
+}
+
+
   
 
 
