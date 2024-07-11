@@ -209,7 +209,10 @@ main{
 .form{
     text-align: center;
 }
+.footer{
 
+    justify-content: space-between;
+}
 
   
 
